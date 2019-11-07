@@ -1,4 +1,7 @@
 @media screen and (max-width: 500px){
+.wrapper{
+    display: block;
+}
 .esquerda{
     width: 100%;
 }

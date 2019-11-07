@@ -2,7 +2,6 @@
     background: orange;
     width:70% ;
     margin: 0 auto;
-    /* float: left; */
    display: flex;
 }
 .esquerda{
