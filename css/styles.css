@@ -1,6 +1,17 @@
 .wrapper{
     background: orange;
     width:70% ;
-    margin: 0 15%;
-    height: 500px;
+    margin: 0 auto;
+    /* float: left; */
+   display: flex;
+}
+.esquerda{
+    background: yellow;
+    width: 50%;
+    height: 700px;
+}
+.direita{
+    background: blue;
+    width: 50%;
+    height: 700px;
 }
